@@ -1,0 +1,5 @@
+#!bin/bash
+
+to open the firefox and load github
+  firefox https://github.com &
+  disown
